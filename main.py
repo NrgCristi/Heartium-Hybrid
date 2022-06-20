@@ -28,7 +28,7 @@ import requests
 from sanic_ipware import get_client_ip
 
 
-app = sanic.Sanic("noteason")
+app = sanic.Sanic("NRG Cristi")
 
 
 
@@ -182,7 +182,7 @@ async def get_profile(accountid):
   return account_settings
 
 
-#profiles made by pirxcy!
+#profiles Maked By NRG Cristi!
 
   
 
@@ -377,7 +377,7 @@ async def render_athena(
 						"attributes": {
 							"favorite": False,
 							"item_seen": True,
-							"level": 1,
+							"level": 9999,
 							"max_level_bonus": 0,
 							"rnd_sel_cnt": 0,
 							"variants": v,
@@ -419,7 +419,7 @@ async def render_athena(
 						"attributes": {
 							"favorite": False,
 							"item_seen": False,
-							"level": 1,
+							"level": 9999,
 							"max_level_bonus": 0,
 							"rnd_sel_cnt": 0,
 							"variants": v,
