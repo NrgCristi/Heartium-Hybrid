@@ -2,5 +2,5 @@
 
 @echo off
 title Heartium
-py main.py
+python main.py
 cmd /k
