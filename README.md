@@ -2,7 +2,7 @@
 A Hybrid Server For Heartium Private Server
 
 
-Tutorial: Downlaod Python From This Link (THIS IS REQUIRED): https://www.python.org/downloads/
+Downlaod Python From This Link (THIS IS REQUIRED): https://www.python.org/downloads/
 then download this project
 then run install_packages.bat
 then run run.bat (MAKE SURE TO KEEP THE RUN.BAT OPENED)
